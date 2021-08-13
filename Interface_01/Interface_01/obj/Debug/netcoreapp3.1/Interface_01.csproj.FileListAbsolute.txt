@@ -1,0 +1,13 @@
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\bin\Debug\netcoreapp3.1\Interface_01.exe
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\bin\Debug\netcoreapp3.1\Interface_01.deps.json
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\bin\Debug\netcoreapp3.1\Interface_01.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\bin\Debug\netcoreapp3.1\Interface_01.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\bin\Debug\netcoreapp3.1\Interface_01.dll
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\bin\Debug\netcoreapp3.1\Interface_01.pdb
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\obj\Debug\netcoreapp3.1\Interface_01.csprojAssemblyReference.cache
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\obj\Debug\netcoreapp3.1\Interface_01.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\obj\Debug\netcoreapp3.1\Interface_01.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\obj\Debug\netcoreapp3.1\Interface_01.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\obj\Debug\netcoreapp3.1\Interface_01.dll
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\obj\Debug\netcoreapp3.1\Interface_01.pdb
+D:\ADS\C# Nelio Alves\Aulas\Interfaces\Interface_01\Interface_01\obj\Debug\netcoreapp3.1\Interface_01.genruntimeconfig.cache
